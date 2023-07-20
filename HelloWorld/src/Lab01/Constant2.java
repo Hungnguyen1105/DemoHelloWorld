@@ -7,5 +7,10 @@ public class Constant2 {
         double paperWitdh = 8.5;
         double paperHeight = 11;
         System.out.println("Paper size in centimeters: " + paperWitdh * CM_PER_INCH + " by " + paperHeight * CM_PER_INCH);
+
+        double Length = 20;
+        double Width = 10;
+        System.out.println(" S " + Length * Width  );
     }
+
 }
