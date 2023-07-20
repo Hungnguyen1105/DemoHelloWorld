@@ -11,6 +11,7 @@ public class Logaaaaa {
         int n =123456789;
         // gan gia n int bang 123456789
         float f= n;
+        // gan f = n de chuyen doi tu n sang f
         System.out.println(f);
 
         double x = 9.997;
