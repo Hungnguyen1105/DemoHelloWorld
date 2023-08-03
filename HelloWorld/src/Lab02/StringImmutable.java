@@ -12,7 +12,8 @@ public class StringImmutable {
         System.out.println("Modified Greeting: " + orginalGreeting);
         // chuoi da thay ma chuoi ban dau giu nguyen gia tri
     }
-    public static String changeString(String input){
+
+    public static String changeString(String input) {
         input += " My Princess ";
         // cong them chuoi vao bien ban dau thi t khoi tao 1 ham moi la change String
         return input;

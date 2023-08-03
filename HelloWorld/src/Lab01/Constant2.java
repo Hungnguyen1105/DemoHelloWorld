@@ -10,7 +10,7 @@ public class Constant2 {
 
         double Length = 20;
         double Width = 10;
-        System.out.println(" S " + Length * Width  );
+        System.out.println(" S " + Length * Width);
     }
 
 }

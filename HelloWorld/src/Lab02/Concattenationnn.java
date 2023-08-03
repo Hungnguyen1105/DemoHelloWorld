@@ -5,7 +5,7 @@ public class Concattenationnn {
         String expletive = "Expletive";
         String PG13 = "deleted";
         // khai bao gan gia tri
-        System.out.println("The answer is" + expletive + PG13 );
+        System.out.println("The answer is" + expletive + PG13);
         // noi chuoi thuc hien o dung lenh in
     }
 }
