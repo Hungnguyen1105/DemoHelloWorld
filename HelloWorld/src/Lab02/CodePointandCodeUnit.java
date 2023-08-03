@@ -3,7 +3,7 @@ package Lab02;
 public class CodePointandCodeUnit {
     public static void main(String[] args) {
                 // Code Point example
-                String text = "Apdehanni AhnPhuong";
+                String text = "Apdehanni AhnPhuong Hoang Nam";
                 int codePointCount = text.codePointCount(0, text.length());
 
                 System.out.println("Text: " + text);
